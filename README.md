@@ -104,16 +104,11 @@ The models were evaluated using:
 
 ---
 
-## Technologies Used
+## Libraries
 
-- Python
 - PyTorch
-- Torchvision
 - NumPy
-- Pandas
 - Matplotlib
-- Scikit-learn
-- Pillow
 - Jupyter Notebook
 
 ---
