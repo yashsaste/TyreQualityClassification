@@ -135,16 +135,6 @@ TyreQualityClassification/
 
 ---
 
-## Future Improvements
-
-Possible future enhancements include:
-
-- Testing additional pretrained models such as EfficientNet and DenseNet.
-- Deployment as a web application using Flask or Streamlit.
-- Real-time tyre inspection using a live camera feed.
-
----
-
 ## References
 
 1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). *ImageNet Classification with Deep Convolutional Neural Networks.*
@@ -157,6 +147,6 @@ Possible future enhancements include:
 
 **Yash Saste**
 
-Department of Mechanical Engineering
+Department of Applied Mechnaics
 
 Developed using **PyTorch** for deep learning-based tyre quality classification.
