@@ -142,7 +142,7 @@ TyreQualityClassification/
 
 **Yash Saste**
 
-Department of Applied Mechanics
+Department of Applied Mechanics*
 Indian Institute of Technology, Madras
 
 Developed using **PyTorch** for deep learning-based tyre quality classification.
