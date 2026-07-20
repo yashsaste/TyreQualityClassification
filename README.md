@@ -32,6 +32,9 @@ The dataset consists of tyre images belonging to two classes:
 | Testing | 278 |
 | **Total** | **1853** |
 
+
+The project uses a publicly available tyre image dataset obtained from Kaggle.
+
 ---
 
 ## Image Preprocessing
